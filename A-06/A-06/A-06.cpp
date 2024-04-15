@@ -2,8 +2,7 @@
 
 int main(void)
     {
-
-	printf(" Heyyy Falak");
-
+	printf("Hey this is Assignment-06 of SEF");
+	printf("This is the last Assignment of the course");
 	return 0;
 	}
